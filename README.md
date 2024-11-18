@@ -18,7 +18,10 @@
   4. Video Games
   5. Text Analysis
   6. Health care
-  MACHINE LEARNING TECHNIQUES: Machine learning use a number of theorie and techniques from data
+     
+   MACHINE LEARNING TECHNIQUES: Machine learning use a number of theorie and techniques from data
+
+
 1. CLASSIFICATION
 2. CATEGORIZARTION
 3. CLUSTERING
@@ -26,6 +29,8 @@
 5. ANOMALY DETECTION
 6. VISUALIZATION
 7. DECISION MAKING
+
+   
    Types of machine learning
    1.supervised learning
    2.unsupervisedd learning
