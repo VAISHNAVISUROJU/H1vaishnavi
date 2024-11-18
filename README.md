@@ -19,8 +19,8 @@
   5. Text Analysis
   6. Health care
      
-   MACHINE LEARNING TECHNIQUES: Machine learning use a number of theorie and techniques from data
-
+   MACHINE LEARNING TECHNIQUES:
+   Machine learning use a number of theorie and techniques from data
 
 1. CLASSIFICATION
 2. CATEGORIZARTION
