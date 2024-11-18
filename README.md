@@ -2,7 +2,7 @@
 
 #INTRODUCTION TO AI/ML  
 - why ML  
-- relationship between AI and human  
+- relationship between AI and ML
 -application  
 1 health  
 2 government  
