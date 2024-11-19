@@ -8,7 +8,8 @@
 2 government  
 3 education
  [Link_to_be_displayed](https://www.google.com/)  
-[plane](https://wallpaperaccess.com/full/254383.jpg)
+[plane]
+(https://wallpaperaccess.com/full/254383.jpg)
 
   DAY-2
   application of machine learning
@@ -36,3 +37,11 @@
    2.unsupervisedd learning
    3.reinforcement learning
    
+|HEAD 1| HEAD 2|HEAD 3|
+|------|-------|------|
+|------|-------|------|
+|------|-------|------|
+|------|-------|------|
+|------|-------|------|
+
+
