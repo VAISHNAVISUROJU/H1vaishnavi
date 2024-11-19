@@ -38,6 +38,8 @@ Types of machine learning
 3.reinforcement learning
    
 |HEAD 1| HEAD 2|HEAD 3|
+
+
 |------|-------|------|
 |------|-------|------|
 |------|-------|------|
