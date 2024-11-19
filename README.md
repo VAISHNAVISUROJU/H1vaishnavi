@@ -57,7 +57,7 @@ Python is a easy-to-learn programming language widely used in web development, d
 2. Why Python?
  Simple Syntax: Its syntax resembles plain English, making it beginner-friendly.
  Versatility: Used in web development, data science, AI/ML, automation, and more.
- Extensive Libraries: Python has libraries like NumPy, Pandas, TensorFlow, and Matplotlib for specific needs.
+ Extensive Libraries: Python has libraries like NumPy, Pandas for specific needs.
  Large Community: A supportive and resourceful community ensures quick help for learners.
  Cross-Platform Support: Works seamlessly on Windows, macOS, and Linux.
 
