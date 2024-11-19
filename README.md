@@ -47,3 +47,45 @@ Types of machine learning
 |------|-------|------|
 
 
+
+DAY-3
+
+1. INTRODUCTION
+Python is a easy-to-learn programming language widely used in web development, data analysis, machine learning, and scientific computing. Its simple syntax and extensive libraries make it a preferred choice for beginners and professionals alike.
+
+
+2. Why Python?
+ Simple Syntax: Its syntax resembles plain English, making it beginner-friendly.
+ Versatility: Used in web development, data science, AI/ML, automation, and more.
+ Extensive Libraries: Python has libraries like NumPy, Pandas, TensorFlow, and Matplotlib for specific needs.
+ Large Community: A supportive and resourceful community ensures quick help for learners.
+ Cross-Platform Support: Works seamlessly on Windows, macOS, and Linux.
+
+
+3. Installation
+
+1. Download:
+Visit Python's official website and download the latest version for learning.
+2. Setup:
+During installation, enable the option "Add Python to PATH".
+You can use tools like Visual Studio Code, Google Colab, Jupyter Notebook, or other IDEs to write and run Python code.
+
+
+4. LIABRARIES
+Here are some popular Python libraries:
+
+NumPy: For numerical computations.
+Pandas: For data manipulation and analysis.
+
+
+5. CONTROL STATEMENTS
+   
+Control statements are used to manage the flow of a program. Examples: for.
+EXAMPLE:
+sum=0
+for i in range(5):
+    sum+=i
+    print(i)
+print(sum)
+
+
