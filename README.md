@@ -12,7 +12,7 @@
 (https://wallpaperaccess.com/full/254383.jpg)
 
   DAY-2
-  Application Of Machine Learning
+  # Application Of Machine Learning
   1. image processing
   2. Robotics
   3. Data Mining
@@ -20,7 +20,7 @@
   5. Text Analysis
   6. Health care
      
-   MACHINE LEARNING TECHNIQUES:
+# MACHINE LEARNING TECHNIQUES:
    Machine learning use a number of theorie and techniques from data
 
 1. CLASSIFICATION
@@ -32,7 +32,7 @@
 7. DECISION MAKING
 
 
-Types of machine learning
+# Types of machine learning
 1.supervised learning
 2.unsupervisedd learning
 3.reinforcement learning
@@ -50,11 +50,11 @@ Types of machine learning
 
 DAY-3
 
-1. INTRODUCTION
+# INTRODUCTION
 Python is a easy-to-learn programming language widely used in web development, data analysis, machine learning, and scientific computing. Its simple syntax and extensive libraries make it a preferred choice for beginners and professionals alike.
 
 
-2. Why Python?
+# Why Python?
 • Ease of Learning: Python's syntax is simple and close to English, making it beginner-friendly.
 
  Simple Syntax: Its syntax resembles plain English, making it beginner-friendly.
@@ -64,7 +64,7 @@ Python is a easy-to-learn programming language widely used in web development, d
  Cross-Platform Support: Works seamlessly on Windows, macOS, and Linux.
 
 
-4. Installation
+# Installation
 
 1. Download:
 Visit Python's official website and download the latest version for learning.
@@ -73,14 +73,14 @@ During installation, enable the option "Add Python to PATH".
 You can use tools like Visual Studio Code, Google Colab, Jupyter Notebook, or other IDEs to write and run Python code.
 
 
-4. LIABRARIES
+# LIABRARIES
 Here are some popular Python libraries:
 
 NumPy: For numerical computations.
 Pandas: For data manipulation and analysis.
 
 
-5. CONTROL STATEMENTS
+# CONTROL STATEMENTS
    
 Control statements are used to manage the flow of a program. Examples: for.
 EXAMPLE:
