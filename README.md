@@ -34,12 +34,13 @@
 
 # Types of machine learning
 1.supervised learning
+
 2.unsupervisedd learning
+
 3.reinforcement learning
    
+
 |HEAD 1| HEAD 2|HEAD 3|
-
-
 |------|-------|------|
 |------|-------|------|
 |------|-------|------|
