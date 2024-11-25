@@ -12,7 +12,7 @@
 (https://wallpaperaccess.com/full/254383.jpg)
 
   DAY-2
-  application of machine learning
+  Application Of Machine Learning
   1. image processing
   2. Robotics
   3. Data Mining
@@ -55,6 +55,8 @@ Python is a easy-to-learn programming language widely used in web development, d
 
 
 2. Why Python?
+• Ease of Learning: Python's syntax is simple and close to English, making it beginner-friendly.
+
  Simple Syntax: Its syntax resembles plain English, making it beginner-friendly.
  Versatility: Used in web development, data science, AI/ML, automation, and more.
  Extensive Libraries: Python has libraries like NumPy, Pandas for specific needs.
@@ -62,7 +64,7 @@ Python is a easy-to-learn programming language widely used in web development, d
  Cross-Platform Support: Works seamlessly on Windows, macOS, and Linux.
 
 
-3. Installation
+4. Installation
 
 1. Download:
 Visit Python's official website and download the latest version for learning.
