@@ -92,9 +92,10 @@ for i in range(5):
 print(sum)
 
 DAY-4
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
+| S.NO   | Assignment    | Link    |
+|--------|---------------|---------|
+| 1      | python basics | Data 2  |
+| 2      |  numpy        | Data 4  |
+| 3      |  pandas       | Data 4  |
 
 
